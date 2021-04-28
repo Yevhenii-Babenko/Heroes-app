@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "heroes-app-cf81e": {
+      "hosting": {
+        "heroes-app": [
+          "heroes-app-cf81e"
+        ]
+      }
+    }
+  }
+}
